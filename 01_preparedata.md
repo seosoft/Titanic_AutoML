@@ -78,4 +78,4 @@ survival 以外の列の値から **survival 列を予測** するのが、今�
 
 ---
 
-データをダウンロードできたので、[次のステップ](./02_createworkspace.md) では **Machine Learning Workspace** を作成します。
+データをダウンロードできたので、次のステップでは [**Machine Learning Workspace** を作成](./02_createworkspace.md)  します。
