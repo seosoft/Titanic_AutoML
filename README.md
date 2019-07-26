@@ -1,6 +1,6 @@
 # Automated ML で二項分類 ～ タイタニック号から脱出できるか？
 
-このコンテンツでは、Azure Machine Learning Service の [**Automated Machin Learning**](https://docs.microsoft.com/ja-jp/dotnet/machine-learning/) (autoML と言うこともあります) を使って 二項分類 を行う手順を紹介します。
+このコンテンツでは、Azure Machine Learning Service の [**Automated Machin Learning**](https://docs.microsoft.com/ja-jp/dotnet/machine-learning/) (autoML と言うこともあります) を使って **二項分類** を行う手順を紹介します。
 
 Automated ML を使用するメリットは、Experiment (学習の実行単位) で、アルゴリズムや条件を変えて複数のイテレーションを自動的に実行してくれることです。この結果、**もっとも精度が高い学習モデル** を簡単に決定できることです。
 
